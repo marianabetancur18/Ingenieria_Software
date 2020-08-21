@@ -1,0 +1,51 @@
+ADMINISTRACION Y GESTION DE UNIDADES CERRADAS
+Observaciones, sugerencias y criticas
+Requisitos:
+    •	Costos
+        o	Impuestos
+        o	Servicios públicos de zonas comunes
+        o	Reparaciones ocasionales
+            	Daños
+            	Mantenimiento
+        o	Personal/Contratos con compañías
+        o	Difusión de eventos y noticias de la propiedad
+        o	Eventos de recreación
+    •	Personal
+        o	Oficios varios/Aseo
+        o	Seguridad
+        o	Administrador
+        o	Junta administrativa
+        o	Personal especializado en zonas húmedas
+    •	Ingresos
+        o	Administración de cada propietario
+            	Retrasos
+            	Fechas de pago
+        o	Si es una urbanización comercial, arriendo de los locales
+        o	Alquiler de salón social
+    •	Información
+        o	Datos
+            	Personal
+            	Propietarios
+            	Administrador, si no es propietario
+        o	Historial de facturas
+        o	Difusión de eventos y noticias
+
+Guía para realizar el SCRUM
+https://www.antevenio.com/blog/2020/02/que-es-la-metodologia-scrum/
+
+Asignación de Roles (Esto hay que preguntarlo)
+    •	Análisis
+    •	Diseño
+    •	Desarrollo
+Planeación del SPRINT: (Periodo en el que se hace el trabajo, se define cuanto tiempo en equipo, al final de cada SPRINT se debe de mostrar avances, por lo tanto, estos deben de tener objetivos claros 
+                        para todo el team)
+
+SCRUM diario/Daily Stand up: Todos los días después de lavarse los dientes con Colgate, hay que tomar 15 minutos para saber como van las cosas en el trabajo donde cada uno dirá que ha hecho o si no adelanto
+                            en el día, no es algo en lo que tengamos que trabajar a diario, pero es para saber en qué van las demás personas.
+
+Sesión 1:
+    •	Leer del SCRUM.
+    •	Resumen sobre que es una “propiedad horizontal”.
+    •	Mirar los requisitos y agregar requisitos.
+    •	Leer el inicio de la guía que tuvo Tamayo para escribir ese modelo.
+    •	Preguntar sobre los roles del SCRUM (Stakeholder, team, Productor Owner, …).
