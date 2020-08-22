@@ -49,3 +49,4 @@ Sesión 1:
     •	Mirar los requisitos y agregar requisitos.
     •	Leer el inicio de la guía que tuvo Tamayo para escribir ese modelo.
     •	Preguntar sobre los roles del SCRUM (Stakeholder, team, Productor Owner, …).
+    •	probar el funcionamiento del repositorio haciendo un commit de prueba.
