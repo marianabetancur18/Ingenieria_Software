@@ -25,10 +25,11 @@ Requisitos:
     •	Información
         o	Datos
             	Personal
-            	Propietarios
+            	Propietarios y/o de quienes habiten el apartamento  //(A)
             	Administrador, si no es propietario
         o	Historial de facturas
         o	Difusión de eventos y noticias
+        o	Reglas y manual de convivencia  //(A)  
 
 Guía para realizar el SCRUM
 https://www.antevenio.com/blog/2020/02/que-es-la-metodologia-scrum/
@@ -50,3 +51,5 @@ Sesión 1:
     •	Leer el inicio de la guía que tuvo Tamayo para escribir ese modelo.
     •	Preguntar sobre los roles del SCRUM (Stakeholder, team, Productor Owner, …).
     •	probar el funcionamiento del repositorio haciendo un commit de prueba.
+
+(A) = Andrea
