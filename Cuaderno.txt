@@ -2,7 +2,7 @@ ADMINISTRACION Y GESTION DE UNIDADES CERRADAS
 Observaciones, sugerencias y criticas
 Requisitos:
     •	Costos
-        o	Impuestos
+        o	Impuestos (declaracion de renta,ventas,industria y comercio)   //(S)
         o	Servicios públicos de zonas comunes
         o	Reparaciones ocasionales
             	Daños
@@ -53,3 +53,4 @@ Sesión 1:
     •	probar el funcionamiento del repositorio haciendo un commit de prueba.
 
 (A) = Andrea
+(S) = Santiago
