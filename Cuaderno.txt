@@ -1,5 +1,12 @@
 ADMINISTRACION Y GESTION DE UNIDADES CERRADAS
 Observaciones, sugerencias y criticas
+
+Clientes Potenciales //(G):
+    •	 Administradores de conjuntos residenciales
+    •	 Dueños de unidades
+    •	 Empresas de Gerencia de Edificios y unidades cerradas
+    •	 Empresas inmobiliarias
+
 Requisitos:
     •	Costos
         o	Impuestos (declaracion de renta,ventas,industria y comercio)   //(S)
@@ -54,3 +61,4 @@ Sesión 1:
 
 (A) = Andrea
 (S) = Santiago
+(G) = Guillermo
