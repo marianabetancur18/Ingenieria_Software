@@ -50,3 +50,8 @@ Solucion basada en software:
                 Pago por eventos de recreación (MÉTODO)
                     Agencia de entretenimiento (PRACTICA)
                     Alquiler de maquinas de alimentos (PRACTICA)
+	Registrar(MÉTODO) //(A)
+		Registrar propietario y/o habitante del apartamento(PRACTICA)
+		Registrar administrador	(PRACTICA)
+		Registrar personal (PRACTICA)
+		Registrar personal (PRACTICA)
