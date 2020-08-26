@@ -1,0 +1,52 @@
+IDENTIFICANDO
+Identicar la oportunidad:
+    Mejorar y automatizar el proceso de administracion y gestion mensual 
+    de una propiedad horizontal. Ya que se analizo que este proceso sigue siendo 
+    analogo para la epoca y que tiene muchos requisitos que se deben
+    suplir, algo que un software podria atacar y solucionar de manera optima
+    y sencilla, para el entendimiento del administrador, como de los
+    inquilinos de la unidad residencial.
+
+Identificacion de interesados:
+    Miramos lo que Guillermo propuso:
+        Administradores de conjuntos residenciales
+        Dueños de unidades
+        Empresas de Gerencia de Edificios y unidades cerradas
+        Empresas inmobiliarias
+    Y tambien pensamos en:
+        Los dueños de la unidad en realidad son los dueños de los
+        apartamentos, ya que como decia en el resumen de Andre, estos
+        compran en realidad el espacio, y todo el conjunto de los espacios
+        es lo que se termina llamando unidad cerrada.
+        Juntas administrativas.
+
+CON SOLUCION REQUERIDA
+¿Por que se necesita software para solucionar esto?
+    Para automatizar todos los procesos que hace normalmente un administrador
+    en su labor, desde el pago e ingresos hasta el manejo de personal e
+    informacion de todos los involucrados.
+
+Necesidades de los interesados
+    Los requisitos que habiamos planteado todos
+
+Identificacion de problemas y causas raiz subyacentes
+    Los procesos de administracion y gestion no se encuentran optimizados
+    y esto conlleva a que las personas, no administradoras, no tengan 
+    conocimiento de los tramites que se realizan.
+
+Solucion basada en software:
+    Administración de una unidad residencial (NUCLEO)
+        Costos (MÉTODO)
+            Pagar (MÉTODO)
+                Pagos a una agencia de Seguridad (PRACTICA)
+                Pagar a las agencia de limpieza (PRACTICA)
+                Pagar a la junta directiva (PRACTICA)
+                Pagar Impuestos (declaracion de renta,ventas,industria y comercio) (PRACTICA)
+                Pagar Servicios Publicos (PRACTICA)
+                Pagar por Reparaciones ocasionales (MÉTODO)
+                    Daños (PRACTICA)
+                    Mantenimiento (PRACTICA)
+                Pagar por la difusión de eventos y noticias sobre la propiedad (PRACTICA)
+                Pago por eventos de recreación (MÉTODO)
+                    Agencia de entretenimiento (PRACTICA)
+                    Alquiler de maquinas de alimentos (PRACTICA)
