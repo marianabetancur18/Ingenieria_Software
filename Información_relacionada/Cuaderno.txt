@@ -6,6 +6,7 @@ Clientes Potenciales //(G):
     •	 Dueños de unidades
     •	 Empresas de Gerencia de Edificios y unidades cerradas
     •	 Empresas inmobiliarias
+    •	 Encargados de proyectos del Ministerio de vivienda //(S)
 
 Requisitos:
     •	Costos
