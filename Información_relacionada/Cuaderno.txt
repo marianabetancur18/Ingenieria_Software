@@ -60,6 +60,8 @@ Sesión 1:
     •	Preguntar sobre los roles del SCRUM (Stakeholder, team, Productor Owner, …).
     •	probar el funcionamiento del repositorio haciendo un commit de prueba.
 
+Sesion 2:
+
 (A) = Andrea
 (S) = Santiago
 (G) = Guillermo

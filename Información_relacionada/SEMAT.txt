@@ -8,16 +8,11 @@ Identicar la oportunidad:
     inquilinos de la unidad residencial.
 
 Identificacion de interesados:
-    Miramos lo que Guillermo propuso:
         Administradores de conjuntos residenciales
-        Dueños de unidades
+        Dueños de los apartamentos
         Empresas de Gerencia de Edificios y unidades cerradas
         Empresas inmobiliarias
-    Y tambien pensamos en:
-        Los dueños de la unidad en realidad son los dueños de los
-        apartamentos, ya que como decia en el resumen de Andre, estos
-        compran en realidad el espacio, y todo el conjunto de los espacios
-        es lo que se termina llamando unidad cerrada.
+        Encargados de proyectos del Ministerio de vivienda //(S)
         Juntas administrativas.
 
 CON SOLUCION REQUERIDA
@@ -25,18 +20,33 @@ CON SOLUCION REQUERIDA
     Para automatizar todos los procesos que hace normalmente un administrador
     en su labor, desde el pago e ingresos hasta el manejo de personal e
     informacion de todos los involucrados.
+    Disminucion en el margen de error en las cifras y se evita errores humanos.
 
 Necesidades de los interesados
-    Los requisitos que habiamos planteado todos
+    Para que la visualizacion y consultas de datos historicos no sea tedioso.
+    Para agregar nuevos datos a el modelo se vuelve una tarea facil.
+    Optimizar recursos, eficiencia, obtener una relacion directa entre los requerimientos y 
+    el organismo social.
 
 Identificacion de problemas y causas raiz subyacentes
     Los procesos de administracion y gestion no se encuentran optimizados
     y esto conlleva a que las personas, no administradoras, no tengan 
     conocimiento de los tramites que se realizan.
+    Perdidas de tiempos. Se evitan retrasos en procesos innecesarios que se reemplazarian por
+    algoritmos de busqueda.
+    Entrega de informes automatizada.
+
 
 Solucion basada en software:
     Administración de una unidad residencial (NUCLEO)
-        Costos (MÉTODO)
+        Reguistro y seguimiento de personal (MÉTODO)
+            Contratacion (PRACTICA)
+            Informes de desempeño en sus trabajos (PRACTICA)
+            Manejo de costos e ingresos (MÉTODO) --preguntarle a el profesor
+            Asignacion de materiales (PRACTICA)
+            Registro de persona laboral (PRACTICA)
+            
+        Manejo de costos e ingresos (MÉTODO)
             Pagar (MÉTODO)
                 Pagos a una agencia de Seguridad (PRACTICA)
                 Pagar a las agencia de limpieza (PRACTICA)
@@ -50,8 +60,22 @@ Solucion basada en software:
                 Pago por eventos de recreación (MÉTODO)
                     Agencia de entretenimiento (PRACTICA)
                     Alquiler de maquinas de alimentos (PRACTICA)
-	Registrar(MÉTODO) //(A)
-		Registrar propietario y/o habitante del apartamento(PRACTICA)
-		Registrar administrador	(PRACTICA)
-		Registrar personal (PRACTICA)
-		Registrar personal (PRACTICA)
+            
+            Cobrar (MÉTODO)
+                Cobrar la administracion a los propietarios (PRACTICA)
+                Arriendos de locales comerciales si los hay (PRACTICA)
+                Alquiler del salon social (PRACTICA)
+
+            Manejo de fechas de pago y cobro (MÉTODO)
+                Cobrar a los morosos (PRACTICA)
+
+        Administración de datos e historiales de facturacion (MÉTODO) //(A)
+            Registrar propietario y/o habitante del apartamento (PRACTICA)
+            Registrar el historial de facturas (PRACTICA)
+            Registrar el historial de prestacion de servicios/materiales (PRACTICA)
+            Registrar de eventos (PRACTICA)
+
+        Gestion de tramites legales (MÉTODO)
+            Estipular reglas (PRACTICA)
+            Contacto directo con las lineas de emergencia (PRACTICA)
+
