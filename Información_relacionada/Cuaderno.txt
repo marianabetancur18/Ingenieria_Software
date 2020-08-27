@@ -61,6 +61,9 @@ Sesión 1:
     •	probar el funcionamiento del repositorio haciendo un commit de prueba.
 
 Sesion 2:
+    •	Repaso del tema respecto al modelo SCRUM.
+    •	Revisión y socialización de las ideas de Núcleo, Métodos y Prácticas de nuestro proyecto.
+    •	Distribución de las diapositivas para la presentación de la próxima clase.
 
 (A) = Andrea
 (S) = Santiago
