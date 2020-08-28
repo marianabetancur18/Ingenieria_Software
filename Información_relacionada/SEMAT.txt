@@ -39,7 +39,7 @@ Identificacion de problemas y causas raiz subyacentes
 
 Solucion basada en software:
     Administración de una unidad residencial (NUCLEO)
-        Reguistro y seguimiento de personal (MÉTODO)
+        Registro y seguimiento de personal (MÉTODO)
             Contratacion (PRACTICA)
             Informes de desempeño en sus trabajos (PRACTICA)
             Manejo de costos e ingresos (MÉTODO) --preguntarle a el profesor
@@ -65,17 +65,28 @@ Solucion basada en software:
                 Cobrar la administracion a los propietarios (PRACTICA)
                 Arriendos de locales comerciales si los hay (PRACTICA)
                 Alquiler del salon social (PRACTICA)
+                Cobrar por mala conducta segun el manual (PRACTICA)
 
             Manejo de fechas de pago y cobro (MÉTODO)
                 Cobrar a los morosos (PRACTICA)
 
         Administración de datos e historiales de facturacion (MÉTODO) //(A)
-            Registrar propietario y/o habitante del apartamento (PRACTICA)
-            Registrar el historial de facturas (PRACTICA)
-            Registrar el historial de prestacion de servicios/materiales (PRACTICA)
-            Registrar de eventos (PRACTICA)
+            Registrar datos de propietarios y/o habitantes del apartamento (PRACTICA)
+            Registrar facturas (PRACTICA)
+            Registrar prestaciones de servicios/materiales (PRACTICA)
+            Registrar eventos (PRACTICA)
+            Registrar trasteo (PRACTICA)
+            Registrar reconocimiento facil de visitantes y habitantes (PRACTICA)
+            Registrar relatorias de las asambleas (PRACTICA)
+            Registrar las salidas y entradas de vehiculos (PRACTICA)
+
+
+        Administración de datos en tiempo real (MÉTODO)
+            Registro de temperaturas en la entrada a la urbanización (PRACTICA)
+
 
         Gestion de tramites legales (MÉTODO)
             Estipular reglas (PRACTICA)
             Contacto directo con las lineas de emergencia (PRACTICA)
+        
 

@@ -65,6 +65,14 @@ Sesion 2:
     •	Revisión y socialización de las ideas de Núcleo, Métodos y Prácticas de nuestro proyecto.
     •	Distribución de las diapositivas para la presentación de la próxima clase.
 
+Sesion 3:
+    •   Socializacion de las sugerencias que el profe realizo en clase
+    TAREAS SEMANALES:
+    •   Mirar el documento/tesis que mando Paula del diagrama conceptual
+    •   Interfaces, bosquejos
+    •   Mirar el documento del SEMAT, esta en el GitHub (8.2 - 8.2.3.4, 8.3 - 8.3.2.2)
+    •   Mirar IGLUW
+
 (A) = Andrea
 (S) = Santiago
 (G) = Guillermo
