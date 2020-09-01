@@ -71,7 +71,9 @@ Sesion 3:
     •   Mirar el documento/tesis que mando Paula del diagrama conceptual
     •   Interfaces, bosquejos
     •   Mirar el documento del SEMAT, esta en el GitHub (8.2 - 8.2.3.4, 8.3 - 8.3.2.2)
-    •   Mirar IGLUW
+    •   Mirar IGLUW:
+        Es una una plataforma gratuita, originaria de Colombia, que permite la gestión de edificio a \\(M)
+        través de una conexión entre bancos y aseguradoras con este nicho de usuarios y sus residentes.
 
 (A) = Andrea
 (S) = Santiago

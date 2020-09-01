@@ -33,8 +33,7 @@ Identificacion de problemas y causas raiz subyacentes
     y esto conlleva a que las personas, no administradoras, no tengan 
     conocimiento de los tramites que se realizan.
     Perdidas de tiempos. Se evitan retrasos en procesos innecesarios que se reemplazarian por
-    algoritmos de busqueda.
-    Entrega de informes automatizada.
+    algoritmos de busqueda.    Entrega de informes automatizada.
 
 
 Solucion basada en software:
@@ -56,7 +55,7 @@ Solucion basada en software:
                 Pagar por Reparaciones ocasionales (MÉTODO)
                     Daños (PRACTICA)
                     Mantenimiento (PRACTICA)
-                Pagar por la difusión de eventos y noticias sobre la propiedad (PRACTICA)
+                Pagar por la difusión de eventos y noticias sobre la propiedad (PRACTICA
                 Pago por eventos de recreación (MÉTODO)
                     Agencia de entretenimiento (PRACTICA)
                     Alquiler de maquinas de alimentos (PRACTICA)
@@ -90,3 +89,82 @@ Solucion basada en software:
             Contacto directo con las lineas de emergencia (PRACTICA)
         
 
+Capitulos del libro leidos, resumen: \\(M)
+8.2 The Customer area of concern
+    En esta area es donde se sabe en realidad que es lo que se puede explotar en el sistema de software que se 
+    va a producir.
+    
+Alphas: el cliente y la oportunidad
+    CLientes son los que traen la oportunidad con ellos y los que definen los requisitos.
+    Y estos clientes tienen varios estados:
+        Reconocido: donde se identifican todos aquellos clientes que seran afectados por el software, la cantidad
+        y el tipo de clientes se ven afectados por la complejidad y naturaleza del sistema y el mercado objetivo de
+        este.
+        Los clientes mas importantes son aquellos que brindan calidad, bases, ayuda economica, u mantiene el software.
+        Representado: Se llega al acuerdo de lo que quiere y definen los roles que deben de tener
+        Involucrado: El representante de los clientes se involucra en todo el proceso de desarollo como intermediario
+        entre los clientes y el equipo de desarollo.
+        En acuerdo: Se establecen los requerimientos minimos que el cliente desea del desarrollo por medio de varias
+        reuniones con el equipo para saber cual es el alcance minimo que se puede realizar para las fechas estipuladas.
+        Satisfecho por lanzamiento: Se satisfacieron los requerimientos minimos
+        Satisfecho del uso: Se satisfacieron los usos que el cliente queria que la aplicacion queria que el software
+        realizara.
+    
+    Oportunidad es un conjunto de circunstancias que hacen posible el desarollo y el cambio de un sistema de software.
+    Esta es la razon para la creacion y desarrollo del sofware. Esta diseñada desde un entendimiento tanto
+    del equipo como del cliente. 
+    Sus estados son:
+        Identificado
+        Necesitado de solucion
+        Valor establecido
+        Viable
+        Tomado
+        Beneficio acumulado
+    La oportunidad debe de permitirle a el equipoÑ
+        Identificar y motivar clientes
+        Entender el claor que el sofware puede ofrecerle a los clientes
+        Entender porque se esta desarrollando el software
+        Entender como sera visto el desarollo cuando llegue a el mercado
+        Asegurar que el software soluciona las necesidades.
+
+Espacios de Actividades
+    Explorar posibilidades
+        Habilitar a los clientes para que esten involucrados
+        Entender las necesidades
+        Identicar las oportunidades del uso del software
+        Entender porque se necesita
+        Establecer el valor a ofertar
+    Entender las necesidades
+        Asegurar que se esta desarrollando la solucion correcta
+        Alinear espectaciones
+        Realimentar
+    Asegurar que el cliente esta Satisfecho
+        Porque da la plata
+        Valida la aceptacion y los beneficios
+        Confirma que lo que se esta realizadno es lo Necesitado
+    Uso del sistema
+        Para generar beneficios netos
+        Retroalimentacion
+        Confirmar que el sistema si cumple espectativas
+        Establecer el valor a invertir para el sistema
+
+8.3 La solucion del arrea de interes
+    Todo lo que tiene que ver con la especificacion y el desarrollo del software
+
+Alphas: los requerimientos y el sistema de software
+    Los requerimientos son lo que el sistema debe de cumplir de la oportunidad para satisfacer a el cliente. 
+    Sus estados son:
+        Concebido
+        Enlazado
+        Coherente
+        Aceptable
+        Asegurado
+        realizadno
+    sistema de Software es un sistema compuesto por software, hardware y datos que provee los valores iniciales
+    para la ejecucion del software. Sus estados son:
+        Arquitectura selecccionada
+        Demostrable
+        Usable
+        Listo
+        Operacional
+        Retirado
