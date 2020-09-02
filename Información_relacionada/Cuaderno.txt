@@ -74,6 +74,8 @@ Sesion 3:
     •   Mirar IGLUW:
         Es una una plataforma gratuita, originaria de Colombia, que permite la gestión de edificio a \\(M)
         través de una conexión entre bancos y aseguradoras con este nicho de usuarios y sus residentes.
+	También busca conectar proveedores, administradores y empresas que realizan permiten el mejor
+	funcionamiento de la propiedad horizontal // (A)
 
 (A) = Andrea
 (S) = Santiago
