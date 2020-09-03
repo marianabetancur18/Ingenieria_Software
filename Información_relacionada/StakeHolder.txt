@@ -1,26 +1,23 @@
-
 ADMINISTRACION DE DATOS E HISTORIALES DE FACTURACIÓN:
-
-
 Conservar la información de manera adecuada y que sea de fácil acceso es fundamental para una administración, no solo hay datos personales de propietarios
 y empleados,sino tambien información de cuentas, pagos y demas servicios.
 
-
 GESTIÓN DE TRAMITES LEGALES:
-
 Las relaciones sociales son especialmente complicadas en una comunidad cerrada, como lo es una unidad residencial,es importante tener una normativa que 
-regule todos estos temas y con esa normativa vienen las multas,llamados a la policia y demas dependencias de ayuda ciudadana.Todas estas acciones deben 
+regule todos estos temas y con esa normativa vienen las multas,llamados mas agiles a la policia y demas dependencias de ayuda ciudadana.Todas estas acciones deben 
 tener un buen manejo por parte de la admnistracion.
 
-
 MANEJO DE COSTOS E INGRESOS:
-
 Tener control del flujo de dinero de una co-propiedad es unas de las funciones mas importantes de la administracion , reducir el margen de error y optimizar 
 los procesos es un objetivo primordial.
 
-
 REGISTRO Y SEGUIMIENTO DE PERSONAL
-
+Tener un manejo eficiente del personal y materiales de trabajo y a su vez los informes
+que estos presentan para asi mejorar el cumplimiento y desempeño de las labores
+cumplidas por estos.
 
 ADMINISTRACION DE DATOS EN TIEMPO REAL
+Debido a la contingencia actual se hace necesario el uso de camaras termicas para prevenir
+el posible contagio de enfermedades y factores de riesgo, como por ejemplo el COVID-19,
+ y asi otorgarle mas seguridad a la comunidad dentro de la unidad cerrada.
 

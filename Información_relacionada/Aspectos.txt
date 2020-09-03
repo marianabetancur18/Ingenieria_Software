@@ -1,0 +1,32 @@
+ESTRUCTURA/COMPONENTES
+    1.	La unidad residencial (espacios comunes, apartamentos, salón social y demás) 
+    2.	Los residentes
+    3.	La administración 
+    4.	El personal (servicios varios, seguridad, entre otros).
+    5.	Servicios de emergencia 
+
+
+COMPORTAMIENTO/FUNCIONALIDADES 
+    1.	Recibir dinero (administraciones, multas).
+    2.	Generar normativas de convivencia.
+    3.	Contratar personal-Despedir personal.
+    4.	Pagar costos (salarios personales, servicios públicos, impuestos, daños, mantenimiento)
+    5.	Manejar información (Registrar personal y residentes, modificar datos, control acerca de pagos y costos).
+    6.	Difundir información.
+    7.	Tramitar asuntos legales.
+    8.	Controlar el ingreso a la copropiedad.
+
+DESEMPEÑO
+    1.	Fácil acceso de los datos.
+    2.	Plataforma amigable (fácil uso, intuitiva).
+    3.	Precisión en la toma y cálculo de datos.
+    4.	Comunicación asertiva. (Alertas y Advertencias)
+    5.	Seguridad y privacidad para los datos.
+    6.	Diferentes roles para visualización del Software.
+
+Aspectos Específicos de Análisis
+    1.  Modelo de costos
+    2.  Modelo de seguridad y tramites legales
+    3.  Seguimientos
+    4.  Manual de normativas
+    5.  Modelo de estructuración de la propiedad
