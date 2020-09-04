@@ -77,6 +77,10 @@ Sesion 3:
 	También busca conectar proveedores, administradores y empresas que realizan permiten el mejor
 	funcionamiento de la propiedad horizontal // (A)
 
+Sesion 5:
+    •   Leer y entender la presentación de SysML
+    •   En un draw.io realizar los diagramas de casos de uso (UC) y diagrama de requerimientos (req)
+
 (A) = Andrea
 (S) = Santiago
 (G) = Guillermo
