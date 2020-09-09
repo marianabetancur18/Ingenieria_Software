@@ -43,7 +43,7 @@ Solucion basada en software:
             Informes de desempeño en sus trabajos (PRACTICA)
             Manejo de costos e ingresos (MÉTODO) --preguntarle a el profesor
             Asignacion de materiales (PRACTICA)
-            Registro de persona laboral (PRACTICA)
+            Registro de personal laboral (PRACTICA)
             
         Manejo de costos e ingresos (MÉTODO)
             Pagar (MÉTODO)
