@@ -81,6 +81,17 @@ Sesion 5:
     •   Leer y entender la presentación de SysML
     •   En un draw.io realizar los diagramas de casos de uso (UC) y diagrama de requerimientos (req)
 
+Sesion 8:
+    •   Seguir con las interfaces, costos y pagos, tambien gestion de informacion
+    (que alguien pueda editar su perfil)
+    •   Leer diapositivas sobre diagrama de maquina de estados y de secuencias, y Leer
+    lo de la OMR (reglamento oficial de los diagramas)
+    •   Leer lo de la OMR de casos uso y requerimientos posibles correcciones
+    •   Lunes correo para asesoria
+    •   Hacer una base de los diagramas para llegar y desarrollar, no empezar
+
+
+
 (A) = Andrea
 (S) = Santiago
 (G) = Guillermo
