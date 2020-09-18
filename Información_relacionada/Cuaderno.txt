@@ -90,6 +90,21 @@ Sesion 8:
     •   Lunes correo para asesoria
     •   Hacer una base de los diagramas para llegar y desarrollar, no empezar
 
+Sesion 12:
+    •   Correguir los aspectos recomendadados por el profesor la sesión pasada
+        •   añadir comprobante de pago
+        •   empleados - Personal
+        •   Acceso - sesión
+        •   diligenciar - rellenar
+        •   especificar tablas de la base de datos
+        •   banco - pasarela de pagos
+        •   contrato vigente: contrato (secuencias)
+        •   bolita roja estados_datos
+
+    •   Conectar XD con Java
+    •   Asistir a la asesoria
+    •   Hacer una base de los diagramas para llegar y desarrollar, no empezar
+
 
 
 (A) = Andrea
